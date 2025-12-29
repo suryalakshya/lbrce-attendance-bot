@@ -1,4 +1,4 @@
-requests==2.31.0
-pytz==2023.3
 selenium==4.15.2
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
+PyGithub==2.3.0
+requests==2.31.0
