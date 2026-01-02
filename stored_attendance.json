@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 16,
-      "present": 12,
-      "percentage": "75.0%"
+      "held": 17,
+      "present": 13,
+      "percentage": "76.5%"
     },
     {
       "sno": "2",
@@ -17,23 +17,23 @@
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 16,
-      "present": 12,
-      "percentage": "75.0%"
+      "held": 17,
+      "present": 13,
+      "percentage": "76.5%"
     },
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 14,
-      "present": 12,
-      "percentage": "85.7%"
+      "held": 15,
+      "present": 13,
+      "percentage": "86.7%"
     },
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 13,
-      "present": 9,
-      "percentage": "69.2%"
+      "held": 14,
+      "present": 10,
+      "percentage": "71.4%"
     },
     {
       "sno": "6",
@@ -52,9 +52,9 @@
     {
       "sno": "8",
       "subject": "Technical Paper Writing & IPR",
-      "held": 7,
-      "present": 5,
-      "percentage": "71.4%"
+      "held": 8,
+      "present": 6,
+      "percentage": "75.0%"
     },
     {
       "sno": "9",
@@ -71,6 +71,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "76.19 %",
-  "timestamp": "02/01/2026 03:17"
+  "overall_percentage": "77.27 %",
+  "timestamp": "02/01/2026 10:48"
 }
