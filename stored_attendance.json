@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 17,
-      "present": 13,
-      "percentage": "76.5%"
+      "held": 18,
+      "present": 14,
+      "percentage": "77.8%"
     },
     {
       "sno": "2",
@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 15,
-      "present": 13,
-      "percentage": "86.7%"
+      "held": 16,
+      "present": 14,
+      "percentage": "87.5%"
     },
     {
       "sno": "5",
@@ -71,6 +71,6 @@
       "percentage": "75.0%"
     }
   ],
-  "overall_percentage": "77.27 %",
-  "timestamp": "03/01/2026 10:46"
+  "overall_percentage": "77.68 %",
+  "timestamp": "04/01/2026 03:27"
 }
