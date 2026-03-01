@@ -20,9 +20,9 @@
     },
     {
       "subject": "Machine Learning",
-      "held": 31,
-      "present": 26,
-      "percentage": "83.9%"
+      "held": 32,
+      "present": 27,
+      "percentage": "84.4%"
     },
     {
       "subject": "Software Project Management",
@@ -73,6 +73,6 @@
       "percentage": "88.9%"
     }
   ],
-  "overall_percentage": "84.31 %",
-  "timestamp": "28/02/2026 10:45"
+  "overall_percentage": "84.36 %",
+  "timestamp": "01/03/2026 04:01"
 }
