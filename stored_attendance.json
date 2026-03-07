@@ -26,9 +26,9 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 32,
-      "present": 26,
-      "percentage": "81.3%"
+      "held": 33,
+      "present": 27,
+      "percentage": "81.8%"
     },
     {
       "subject": "Disaster Management",
@@ -73,6 +73,6 @@
       "percentage": "90.0%"
     }
   ],
-  "overall_percentage": "85.26 %",
-  "timestamp": "06/03/2026 11:00"
+  "overall_percentage": "85.3 %",
+  "timestamp": "07/03/2026 03:29"
 }
