@@ -44,9 +44,9 @@
     },
     {
       "subject": "Cryptography & Network Security Lab",
-      "held": 33,
-      "present": 30,
-      "percentage": "90.9%"
+      "held": 36,
+      "present": 33,
+      "percentage": "91.7%"
     },
     {
       "subject": "Soft Skills",
@@ -73,6 +73,6 @@
       "percentage": "90.0%"
     }
   ],
-  "overall_percentage": "85.27 %",
-  "timestamp": "08/03/2026 10:48"
+  "overall_percentage": "85.39 %",
+  "timestamp": "09/03/2026 03:55"
 }
