@@ -8,9 +8,9 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 16,
-      "present": 12,
-      "percentage": "75.0%"
+      "held": 17,
+      "present": 13,
+      "percentage": "76.5%"
     },
     {
       "subject": "Cryptography & Network Security",
@@ -38,9 +38,9 @@
     },
     {
       "subject": "Cloud Computing Lab",
-      "held": 15,
+      "held": 18,
       "present": 15,
-      "percentage": "100.0%"
+      "percentage": "83.3%"
     },
     {
       "subject": "Cryptography & Network Security Lab",
@@ -73,6 +73,6 @@
       "percentage": "90.0%"
     }
   ],
-  "overall_percentage": "85.56 %",
-  "timestamp": "10/03/2026 11:06"
+  "overall_percentage": "84.89 %",
+  "timestamp": "10/03/2026 11:34"
 }
