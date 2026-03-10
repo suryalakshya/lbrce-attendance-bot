@@ -20,15 +20,15 @@
     },
     {
       "subject": "Machine Learning",
-      "held": 33,
-      "present": 28,
-      "percentage": "84.8%"
+      "held": 34,
+      "present": 29,
+      "percentage": "85.3%"
     },
     {
       "subject": "Software Project Management",
-      "held": 33,
-      "present": 27,
-      "percentage": "81.8%"
+      "held": 34,
+      "present": 28,
+      "percentage": "82.4%"
     },
     {
       "subject": "Disaster Management",
@@ -73,6 +73,6 @@
       "percentage": "90.0%"
     }
   ],
-  "overall_percentage": "85.47 %",
-  "timestamp": "10/03/2026 03:38"
+  "overall_percentage": "85.56 %",
+  "timestamp": "10/03/2026 11:06"
 }
