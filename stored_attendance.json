@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 50,
-      "present": 40,
-      "percentage": "80.0%"
+      "held": 51,
+      "present": 41,
+      "percentage": "80.4%"
     },
     {
       "subject": "Machine Learning",
@@ -26,15 +26,15 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 37,
-      "present": 30,
-      "percentage": "81.1%"
+      "held": 38,
+      "present": 31,
+      "percentage": "81.6%"
     },
     {
       "subject": "Disaster Management",
-      "held": 45,
-      "present": 43,
-      "percentage": "95.6%"
+      "held": 46,
+      "present": 44,
+      "percentage": "95.7%"
     },
     {
       "subject": "Cloud Computing Lab",
@@ -73,6 +73,6 @@
       "percentage": "90.9%"
     }
   ],
-  "overall_percentage": "85.08 %",
-  "timestamp": "18/03/2026 04:01"
+  "overall_percentage": "85.19 %",
+  "timestamp": "18/03/2026 11:14"
 }
