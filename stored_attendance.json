@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 52,
-      "present": 42,
-      "percentage": "80.8%"
+      "held": 53,
+      "present": 43,
+      "percentage": "81.1%"
     },
     {
       "subject": "Machine Learning",
@@ -26,9 +26,9 @@
     },
     {
       "subject": "Software Project Management",
-      "held": 39,
-      "present": 32,
-      "percentage": "82.1%"
+      "held": 40,
+      "present": 33,
+      "percentage": "82.5%"
     },
     {
       "subject": "Disaster Management",
@@ -68,11 +68,11 @@
     },
     {
       "subject": "Technical Training",
-      "held": 36,
-      "present": 33,
-      "percentage": "91.7%"
+      "held": 39,
+      "present": 36,
+      "percentage": "92.3%"
     }
   ],
-  "overall_percentage": "86.06 %",
-  "timestamp": "25/03/2026 03:58"
+  "overall_percentage": "86.21 %",
+  "timestamp": "25/03/2026 11:11"
 }
