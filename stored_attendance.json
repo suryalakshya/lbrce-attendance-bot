@@ -50,9 +50,9 @@
     },
     {
       "subject": "Soft Skills",
-      "held": 30,
-      "present": 27,
-      "percentage": "90.0%"
+      "held": 33,
+      "present": 30,
+      "percentage": "90.9%"
     },
     {
       "subject": "Technical Paper Writing & IPR",
@@ -73,6 +73,6 @@
       "percentage": "92.3%"
     }
   ],
-  "overall_percentage": "85.9 %",
-  "timestamp": "26/03/2026 11:26"
+  "overall_percentage": "85.99 %",
+  "timestamp": "27/03/2026 04:11"
 }
