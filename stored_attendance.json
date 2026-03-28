@@ -8,21 +8,21 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 47,
-      "present": 39,
-      "percentage": "83.0%"
+      "held": 48,
+      "present": 40,
+      "percentage": "83.3%"
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 54,
-      "present": 44,
-      "percentage": "81.5%"
+      "held": 56,
+      "present": 46,
+      "percentage": "82.1%"
     },
     {
       "subject": "Machine Learning",
-      "held": 39,
-      "present": 34,
-      "percentage": "87.2%"
+      "held": 40,
+      "present": 35,
+      "percentage": "87.5%"
     },
     {
       "subject": "Software Project Management",
@@ -32,9 +32,9 @@
     },
     {
       "subject": "Disaster Management",
-      "held": 48,
+      "held": 49,
       "present": 45,
-      "percentage": "93.8%"
+      "percentage": "91.8%"
     },
     {
       "subject": "Cloud Computing Lab",
@@ -62,9 +62,9 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 13,
-      "present": 11,
-      "percentage": "84.6%"
+      "held": 14,
+      "present": 12,
+      "percentage": "85.7%"
     },
     {
       "subject": "Technical Training",
@@ -73,6 +73,6 @@
       "percentage": "92.3%"
     }
   ],
-  "overall_percentage": "85.99 %",
-  "timestamp": "28/03/2026 03:57"
+  "overall_percentage": "85.95 %",
+  "timestamp": "28/03/2026 10:56"
 }
