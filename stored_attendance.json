@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 57,
-      "present": 47,
-      "percentage": "82.5%"
+      "held": 59,
+      "present": 49,
+      "percentage": "83.1%"
     },
     {
       "subject": "Machine Learning",
@@ -50,15 +50,15 @@
     },
     {
       "subject": "Soft Skills",
-      "held": 33,
-      "present": 30,
-      "percentage": "90.9%"
+      "held": 36,
+      "present": 33,
+      "percentage": "91.7%"
     },
     {
       "subject": "Technical Paper Writing & IPR",
-      "held": 25,
-      "present": 20,
-      "percentage": "80.0%"
+      "held": 26,
+      "present": 21,
+      "percentage": "80.8%"
     },
     {
       "subject": "ASSOCIATION",
@@ -73,6 +73,6 @@
       "percentage": "92.9%"
     }
   ],
-  "overall_percentage": "86.46 %",
-  "timestamp": "02/04/2026 04:05"
+  "overall_percentage": "86.63 %",
+  "timestamp": "02/04/2026 11:14"
 }
