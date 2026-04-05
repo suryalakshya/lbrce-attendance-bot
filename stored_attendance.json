@@ -14,9 +14,9 @@
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 59,
-      "present": 49,
-      "percentage": "83.1%"
+      "held": 60,
+      "present": 50,
+      "percentage": "83.3%"
     },
     {
       "subject": "Machine Learning",
@@ -62,9 +62,9 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 14,
-      "present": 12,
-      "percentage": "85.7%"
+      "held": 15,
+      "present": 13,
+      "percentage": "86.7%"
     },
     {
       "subject": "Technical Training",
@@ -73,6 +73,6 @@
       "percentage": "92.9%"
     }
   ],
-  "overall_percentage": "86.68 %",
-  "timestamp": "04/04/2026 10:58"
+  "overall_percentage": "86.73 %",
+  "timestamp": "05/04/2026 04:15"
 }
