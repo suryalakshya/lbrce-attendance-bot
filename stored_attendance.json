@@ -32,9 +32,9 @@
     },
     {
       "subject": "Disaster Management",
-      "held": 52,
-      "present": 48,
-      "percentage": "92.3%"
+      "held": 53,
+      "present": 49,
+      "percentage": "92.5%"
     },
     {
       "subject": "Cloud Computing Lab",
@@ -45,8 +45,8 @@
     {
       "subject": "Cryptography & Network Security Lab",
       "held": 48,
-      "present": 42,
-      "percentage": "87.5%"
+      "present": 45,
+      "percentage": "93.8%"
     },
     {
       "subject": "Soft Skills",
@@ -73,6 +73,6 @@
       "percentage": "92.9%"
     }
   ],
-  "overall_percentage": "86.25 %",
-  "timestamp": "06/04/2026 04:22"
+  "overall_percentage": "86.86 %",
+  "timestamp": "06/04/2026 11:26"
 }
