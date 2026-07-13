@@ -2,8 +2,8 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 9,
-      "present": 9,
+      "held": 10,
+      "present": 10,
       "percentage": "100.0%"
     },
     {
@@ -14,9 +14,9 @@
     },
     {
       "subject": "Devops",
-      "held": 8,
-      "present": 7,
-      "percentage": "87.5%"
+      "held": 9,
+      "present": 8,
+      "percentage": "88.9%"
     },
     {
       "subject": "Generative AI",
@@ -32,8 +32,8 @@
     },
     {
       "subject": "Prompt Engineering",
-      "held": 8,
-      "present": 8,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
@@ -56,8 +56,8 @@
     },
     {
       "subject": "SELF LEARNING",
-      "held": 2,
-      "present": 2,
+      "held": 3,
+      "present": 3,
       "percentage": "100.0%"
     },
     {
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "87.5 %",
-  "timestamp": "13/07/2026 04:54"
+  "overall_percentage": "88.57 %",
+  "timestamp": "13/07/2026 12:44"
 }
