@@ -2,27 +2,27 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 10,
-      "present": 10,
+      "held": 11,
+      "present": 11,
       "percentage": "100.0%"
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 5,
-      "present": 4,
-      "percentage": "80.0%"
+      "held": 6,
+      "present": 5,
+      "percentage": "83.3%"
     },
     {
       "subject": "Devops",
-      "held": 9,
+      "held": 10,
       "present": 8,
-      "percentage": "88.9%"
+      "percentage": "80.0%"
     },
     {
       "subject": "Generative AI",
-      "held": 9,
-      "present": 7,
-      "percentage": "77.8%"
+      "held": 10,
+      "present": 8,
+      "percentage": "80.0%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -38,9 +38,9 @@
     },
     {
       "subject": "Constitution of India",
-      "held": 4,
+      "held": 5,
       "present": 4,
-      "percentage": "100.0%"
+      "percentage": "80.0%"
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
@@ -56,8 +56,8 @@
     },
     {
       "subject": "SELF LEARNING",
-      "held": 3,
-      "present": 3,
+      "held": 4,
+      "present": 4,
       "percentage": "100.0%"
     },
     {
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "88.57 %",
-  "timestamp": "14/07/2026 04:22"
+  "overall_percentage": "86.84 %",
+  "timestamp": "14/07/2026 11:51"
 }
