@@ -8,27 +8,27 @@
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 8,
-      "present": 7,
-      "percentage": "87.5%"
+      "held": 9,
+      "present": 8,
+      "percentage": "88.9%"
     },
     {
       "subject": "Devops",
-      "held": 14,
-      "present": 12,
-      "percentage": "85.7%"
+      "held": 15,
+      "present": 13,
+      "percentage": "86.7%"
     },
     {
       "subject": "Generative AI",
-      "held": 14,
-      "present": 12,
-      "percentage": "85.7%"
+      "held": 15,
+      "present": 13,
+      "percentage": "86.7%"
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 11,
-      "present": 10,
-      "percentage": "90.9%"
+      "held": 12,
+      "present": 11,
+      "percentage": "91.7%"
     },
     {
       "subject": "Prompt Engineering",
@@ -38,8 +38,8 @@
     },
     {
       "subject": "Constitution of India",
-      "held": 6,
-      "present": 6,
+      "held": 7,
+      "present": 7,
       "percentage": "100.0%"
     },
     {
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "91.51 %",
-  "timestamp": "21/07/2026 04:42"
+  "overall_percentage": "91.89 %",
+  "timestamp": "21/07/2026 12:06"
 }
