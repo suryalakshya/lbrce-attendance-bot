@@ -14,9 +14,9 @@
     },
     {
       "subject": "Devops",
-      "held": 13,
-      "present": 11,
-      "percentage": "84.6%"
+      "held": 14,
+      "present": 12,
+      "percentage": "85.7%"
     },
     {
       "subject": "Generative AI",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "91.43 %",
-  "timestamp": "20/07/2026 12:29"
+  "overall_percentage": "91.51 %",
+  "timestamp": "21/07/2026 04:42"
 }
