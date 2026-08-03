@@ -2,8 +2,8 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 20,
-      "present": 20,
+      "held": 21,
+      "present": 21,
       "percentage": "100.0%"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "subject": "Prompt Engineering",
-      "held": 20,
+      "held": 23,
       "present": 20,
-      "percentage": "100.0%"
+      "percentage": "87.0%"
     },
     {
       "subject": "Constitution of India",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "93.98 %",
-  "timestamp": "03/08/2026 04:58"
+  "overall_percentage": "92.35 %",
+  "timestamp": "03/08/2026 10:00"
 }
