@@ -20,15 +20,15 @@
     },
     {
       "subject": "Generative AI",
-      "held": 28,
-      "present": 26,
-      "percentage": "92.9%"
+      "held": 29,
+      "present": 27,
+      "percentage": "93.1%"
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 22,
-      "present": 21,
-      "percentage": "95.5%"
+      "held": 23,
+      "present": 22,
+      "percentage": "95.7%"
     },
     {
       "subject": "Prompt Engineering",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "94.79 %",
-  "timestamp": "08/08/2026 03:05"
+  "overall_percentage": "94.85 %",
+  "timestamp": "08/08/2026 10:58"
 }
