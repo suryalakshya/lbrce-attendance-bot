@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 30,
-      "present": 29,
-      "percentage": "96.7%"
+      "held": 31,
+      "present": 30,
+      "percentage": "96.8%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -20,15 +20,15 @@
     },
     {
       "subject": "Generative AI",
-      "held": 35,
-      "present": 33,
-      "percentage": "94.3%"
+      "held": 36,
+      "present": 34,
+      "percentage": "94.4%"
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 26,
-      "present": 24,
-      "percentage": "92.3%"
+      "held": 27,
+      "present": 25,
+      "percentage": "92.6%"
     },
     {
       "subject": "Prompt Engineering",
@@ -50,9 +50,9 @@
     },
     {
       "subject": "Technical Training",
-      "held": 21,
-      "present": 18,
-      "percentage": "85.7%"
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
     },
     {
       "subject": "SELF LEARNING",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "93.53 %",
-  "timestamp": "19/08/2026 02:36"
+  "overall_percentage": "93.7 %",
+  "timestamp": "19/08/2026 10:53"
 }
