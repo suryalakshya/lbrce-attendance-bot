@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 34,
+      "held": 35,
       "present": 33,
-      "percentage": "97.1%"
+      "percentage": "94.3%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 40,
+      "held": 41,
       "present": 38,
-      "percentage": "95.0%"
+      "percentage": "92.7%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -38,8 +38,8 @@
     },
     {
       "subject": "Constitution of India",
-      "held": 18,
-      "present": 18,
+      "held": 19,
+      "present": 19,
       "percentage": "100.0%"
     },
     {
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "94.19 %",
-  "timestamp": "03/09/2026 06:02"
+  "overall_percentage": "93.49 %",
+  "timestamp": "03/09/2026 14:40"
 }
