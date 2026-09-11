@@ -2,15 +2,15 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 39,
-      "present": 37,
-      "percentage": "94.9%"
+      "held": 40,
+      "present": 38,
+      "percentage": "95.0%"
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 23,
-      "present": 20,
-      "percentage": "87.0%"
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
     },
     {
       "subject": "Devops",
@@ -44,9 +44,9 @@
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 12,
-      "present": 10,
-      "percentage": "83.3%"
+      "held": 14,
+      "present": 12,
+      "percentage": "85.7%"
     },
     {
       "subject": "Technical Training",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "93.77 %",
-  "timestamp": "11/09/2026 06:17"
+  "overall_percentage": "93.86 %",
+  "timestamp": "11/09/2026 14:32"
 }
