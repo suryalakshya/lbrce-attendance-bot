@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 50,
-      "present": 45,
-      "percentage": "90.0%"
+      "held": 52,
+      "present": 46,
+      "percentage": "88.5%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -32,9 +32,9 @@
     },
     {
       "subject": "Prompt Engineering",
-      "held": 36,
-      "present": 35,
-      "percentage": "97.2%"
+      "held": 39,
+      "present": 38,
+      "percentage": "97.4%"
     },
     {
       "subject": "Constitution of India",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.28 %",
-  "timestamp": "21/09/2026 16:32"
+  "overall_percentage": "90.12 %",
+  "timestamp": "22/09/2026 06:28"
 }
