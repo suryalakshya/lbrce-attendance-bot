@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 45,
-      "present": 39,
-      "percentage": "86.7%"
+      "held": 46,
+      "present": 40,
+      "percentage": "87.0%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -38,9 +38,9 @@
     },
     {
       "subject": "Constitution of India",
-      "held": 23,
-      "present": 22,
-      "percentage": "95.7%"
+      "held": 24,
+      "present": 23,
+      "percentage": "95.8%"
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
@@ -56,9 +56,9 @@
     },
     {
       "subject": "SELF LEARNING",
-      "held": 12,
-      "present": 11,
-      "percentage": "91.7%"
+      "held": 13,
+      "present": 12,
+      "percentage": "92.3%"
     },
     {
       "subject": "ASSOCIATION",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.12 %",
-  "timestamp": "22/09/2026 06:28"
+  "overall_percentage": "90.21 %",
+  "timestamp": "22/09/2026 15:05"
 }
