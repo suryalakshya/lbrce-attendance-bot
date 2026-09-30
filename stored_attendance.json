@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 57,
-      "present": 50,
-      "percentage": "87.7%"
+      "held": 58,
+      "present": 51,
+      "percentage": "87.9%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -50,9 +50,9 @@
     },
     {
       "subject": "Technical Training",
-      "held": 36,
-      "present": 30,
-      "percentage": "83.3%"
+      "held": 39,
+      "present": 33,
+      "percentage": "84.6%"
     },
     {
       "subject": "SELF LEARNING",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.56 %",
-  "timestamp": "30/09/2026 06:59"
+  "overall_percentage": "90.66 %",
+  "timestamp": "30/09/2026 16:27"
 }
