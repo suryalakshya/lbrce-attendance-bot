@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 51,
-      "present": 45,
-      "percentage": "88.2%"
+      "held": 52,
+      "present": 46,
+      "percentage": "88.5%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -26,9 +26,9 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 43,
-      "present": 40,
-      "percentage": "93.0%"
+      "held": 44,
+      "present": 41,
+      "percentage": "93.2%"
     },
     {
       "subject": "Prompt Engineering",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.5 %",
-  "timestamp": "29/09/2026 16:34"
+  "overall_percentage": "90.56 %",
+  "timestamp": "30/09/2026 06:59"
 }
