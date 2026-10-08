@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 57,
-      "present": 51,
-      "percentage": "89.5%"
+      "held": 58,
+      "present": 52,
+      "percentage": "89.7%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 62,
-      "present": 54,
-      "percentage": "87.1%"
+      "held": 63,
+      "present": 55,
+      "percentage": "87.3%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -32,15 +32,15 @@
     },
     {
       "subject": "Prompt Engineering",
-      "held": 47,
-      "present": 46,
+      "held": 48,
+      "present": 47,
       "percentage": "97.9%"
     },
     {
       "subject": "Constitution of India",
-      "held": 28,
-      "present": 27,
-      "percentage": "96.4%"
+      "held": 29,
+      "present": 28,
+      "percentage": "96.6%"
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "91.05 %",
-  "timestamp": "08/10/2026 07:42"
+  "overall_percentage": "91.14 %",
+  "timestamp": "08/10/2026 17:28"
 }
