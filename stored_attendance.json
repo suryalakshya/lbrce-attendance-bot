@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 60,
+      "held": 62,
       "present": 52,
-      "percentage": "86.7%"
+      "percentage": "83.9%"
     },
     {
       "subject": "Human Resources & Project Management",
@@ -26,15 +26,15 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 50,
+      "held": 51,
       "present": 46,
-      "percentage": "92.0%"
+      "percentage": "90.2%"
     },
     {
       "subject": "Prompt Engineering",
-      "held": 48,
-      "present": 47,
-      "percentage": "97.9%"
+      "held": 55,
+      "present": 54,
+      "percentage": "98.2%"
     },
     {
       "subject": "Constitution of India",
@@ -50,9 +50,9 @@
     },
     {
       "subject": "Technical Training",
-      "held": 42,
+      "held": 45,
       "present": 36,
-      "percentage": "85.7%"
+      "percentage": "80.0%"
     },
     {
       "subject": "SELF LEARNING",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "89.08 %",
-  "timestamp": "14/10/2026 06:23"
+  "overall_percentage": "88 %",
+  "timestamp": "14/10/2026 15:17"
 }
