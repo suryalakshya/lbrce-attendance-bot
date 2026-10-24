@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 69,
-      "present": 57,
-      "percentage": "82.6%"
+      "held": 70,
+      "present": 58,
+      "percentage": "82.9%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -62,11 +62,11 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 22,
-      "present": 22,
+      "held": 24,
+      "present": 24,
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "87.41 %",
-  "timestamp": "24/10/2026 06:06"
+  "overall_percentage": "87.5 %",
+  "timestamp": "24/10/2026 14:03"
 }
