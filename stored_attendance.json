@@ -2,15 +2,15 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 66,
-      "present": 55,
-      "percentage": "83.3%"
+      "held": 67,
+      "present": 56,
+      "percentage": "83.6%"
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 38,
-      "present": 31,
-      "percentage": "81.6%"
+      "held": 39,
+      "present": 32,
+      "percentage": "82.1%"
     },
     {
       "subject": "Devops",
@@ -26,9 +26,9 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 56,
-      "present": 50,
-      "percentage": "89.3%"
+      "held": 57,
+      "present": 51,
+      "percentage": "89.5%"
     },
     {
       "subject": "Prompt Engineering",
@@ -44,9 +44,9 @@
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 22,
-      "present": 20,
-      "percentage": "90.9%"
+      "held": 24,
+      "present": 22,
+      "percentage": "91.7%"
     },
     {
       "subject": "Technical Training",
@@ -67,6 +67,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "88.02 %",
-  "timestamp": "30/10/2026 07:25"
+  "overall_percentage": "88.15 %",
+  "timestamp": "30/10/2026 16:45"
 }
